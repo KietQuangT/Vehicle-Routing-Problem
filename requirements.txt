@@ -1,0 +1,14 @@
+# ==============================================================================
+# Project 1: Vehicle Routing Problem (Share-a-Ride Problem - SARP)
+# Requirements & Dependencies
+# ==============================================================================
+# Lưu ý: Thuật toán chính trong `main.py` được thiết kế tối ưu bằng thuần chuẩn
+# thư viện chuẩn của Python (Standard Library: math, sys, time, random, etc.),
+# do đó Thầy giáo có thể chạy trực tiếp mà không bắt buộc cài đặt thêm gói ngoài.
+# 
+# Các gói dưới đây hỗ trợ cho quá trình thực nghiệm, trực quan hóa và phân tích số liệu:
+# ==============================================================================
+
+numpy>=1.23.0
+matplotlib>=3.6.0
+scipy>=1.10.0
