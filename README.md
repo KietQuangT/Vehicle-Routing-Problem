@@ -5,10 +5,10 @@
 
 ## 📌 1. Thông Tin Sinh Viên & Đề Tài
 
-* **Họ và tên sinh viên:** Quảng Kiệt *(Cập nhật theo thông tin chính thức của bạn)*
-* **Mã số sinh viên (MSSV):** `2021xxxx` *(Điền MSSV vào đây)*
+* **Họ và tên sinh viên:** Quảng Tuấn Kiệt 
+* **Mã số sinh viên (MSSV):** `202417244` 
 * **Lớp:** Kỹ thuật Phần mềm / Khoa học Máy tính - ĐHBK Hà Nội (HUST - SOICT)
-* **Giảng viên hướng dẫn / chấm điểm:** Thầy Nguyễn Quang Tuấn
+* **Giảng viên hướng dẫn / chấm điểm:** Thầy Nguyễn Quốc Tuấn
 * **Repository Git:** [https://gitlab.nqtuan0192.me/KietQuangTT/project1-vrp](https://gitlab.nqtuan0192.me/KietQuangTT/project1-vrp)
 
 ---
