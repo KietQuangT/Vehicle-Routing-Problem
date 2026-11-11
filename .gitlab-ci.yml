@@ -1,0 +1,9 @@
+stages:
+  - test
+
+check_code:
+  stage: test
+  image: python:3.10-slim
+  script:
+    - python -m py_compile main.py
+    - echo "Pipeline da chay thanh cong!"
